@@ -1,0 +1,36 @@
+.art{
+    margin: 20% auto;
+    padding: 80px;
+}
+.cur .tema{
+    text-align: center;
+    font-size: 28px;
+
+}
+
+.cur .klk .card{
+    align-items: center;
+    text-align: justify;
+}
+
+.tema{
+    font-size: 44px;
+}
+
+.img-fluid:hover{
+    filter: grayscale(80%);
+    cursor: pointer;
+
+}
+
+
+.img-fluid{
+    margin-top: 15%;
+    width: 325px;
+    margin-left: 3%;
+
+}
+
+.colb{
+    margin-top: 15%;
+}

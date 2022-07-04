@@ -1,0 +1,41 @@
+.tituloHabilidades {
+    font-size: 54px;
+    font-weight: bold;
+    margin: 0;
+    margin-top:14%;
+    color: #BA6AEB;
+    font-family: "Noto Sans", sans-serif;
+    margin-right: 3%;
+    text-align: center;
+}
+
+
+
+.list-group-horizontal {
+    padding: 5px;
+    justify-content: center;
+    margin-left: 34px;
+    border-radius: 45px;
+    flex-wrap: wrap;
+}
+
+.list-group-item{
+    margin-right: 21px;
+    margin-top: 25px;
+    padding-top: 1px;
+    font-weight: bold;
+    font-size: 34px;
+    cursor: pointer;
+    
+
+}
+
+
+.list-group-item:hover{
+    background-color:#BA6AEB;
+    color: white;
+}
+
+.habi{
+    padding: 8%;
+}
